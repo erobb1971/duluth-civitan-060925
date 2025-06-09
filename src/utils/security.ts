@@ -1,6 +1,5 @@
-
 /**
- * Security utility functions for Duluth Civitan website
+ * Security utility functions for Duluth Civitan June 9 2025 website
  * 
  * SECURITY NOTE: This file contains client-side security measures only.
  * These are supplementary protections and should NOT be relied upon for actual security.

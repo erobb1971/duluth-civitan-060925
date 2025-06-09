@@ -1,4 +1,3 @@
-
 export interface GalleryImage {
   id: string;
   src: string;
@@ -25,7 +24,7 @@ export const galleryCategories = [
 export const galleryImages: GalleryImage[] = [
   {
     id: "1",
-    src: "/lovable-uploads/63c708c7-1b5a-43a2-8e9d-08ca4ec5fb99.png",
+    src: "/images/gallery/image1.png",
     alt: "Duluth Civitan members at a social event in Gwinnett County",
     title: "Social Event",
     description: "Members gathering for community fellowship",
@@ -35,7 +34,7 @@ export const galleryImages: GalleryImage[] = [
   },
   {
     id: "2",
-    src: "/lovable-uploads/41a23cc2-b977-4e3e-bdc8-f9c94d5a3d72.png",
+    src: "/images/gallery/image2.png",
     alt: "Duluth Civitan members at a meeting in Duluth, Georgia",
     title: "Club Meeting",
     description: "Regular monthly meeting with members",
@@ -45,7 +44,7 @@ export const galleryImages: GalleryImage[] = [
   },
   {
     id: "3",
-    src: "/lovable-uploads/678ed1df-9ef5-46f2-8944-f1dafc901018.png",
+    src: "/images/gallery/image3.png",
     alt: "Duluth Civitan members with club banner at Gwinnett community event",
     title: "Community Event",
     description: "Representing Duluth Civitan at community gathering",
@@ -55,7 +54,7 @@ export const galleryImages: GalleryImage[] = [
   },
   {
     id: "4",
-    src: "/lovable-uploads/8387b82f-19f8-4f1a-8f91-6c3d8890996e.png",
+    src: "/images/gallery/image4.png",
     alt: "Duluth Civitan social gathering for Gwinnett County developmental disabilities support",
     title: "Support Gathering",
     description: "Event supporting developmental disabilities programs",
@@ -65,7 +64,7 @@ export const galleryImages: GalleryImage[] = [
   },
   {
     id: "5",
-    src: "/lovable-uploads/ad83702f-43c8-4de3-a275-549a332bbce5.png",
+    src: "/images/gallery/image5.png",
     alt: "Duluth Civitan members at Kids R Kids program in Gwinnett County",
     title: "Kids R Kids Program",
     description: "Supporting local children's programs",
@@ -75,7 +74,7 @@ export const galleryImages: GalleryImage[] = [
   },
   {
     id: "6",
-    src: "/lovable-uploads/657d211f-2f66-446f-85e0-32795be59165.png",
+    src: "/images/gallery/image6.png",
     alt: "Duluth Civitan fundraiser dinner supporting Gwinnett County disability programs",
     title: "Fundraiser Dinner",
     description: "Annual fundraising dinner for disability programs",
@@ -85,7 +84,7 @@ export const galleryImages: GalleryImage[] = [
   },
   {
     id: "7",
-    src: "/lovable-uploads/11821b97-854b-432a-a50f-d6430f825a52.png",
+    src: "/images/gallery/image7.png",
     alt: "Duluth Civitan social dinner with Gwinnett County community leaders",
     title: "Leadership Dinner",
     description: "Dinner with community leaders and officials",
@@ -95,7 +94,7 @@ export const galleryImages: GalleryImage[] = [
   },
   {
     id: "8",
-    src: "/lovable-uploads/e2bfdee5-646c-4834-b5a3-0d73ca739814.png",
+    src: "/images/gallery/image8.png",
     alt: "Duluth Civitan members on a bridge at Gwinnett County park",
     title: "Park Event",
     description: "Team building event at local park",
@@ -105,7 +104,7 @@ export const galleryImages: GalleryImage[] = [
   },
   {
     id: "9",
-    src: "/lovable-uploads/1c1349f8-4383-4ae4-ba60-47937d81ecaa.png",
+    src: "/images/gallery/image9.png",
     alt: "Duluth Civitan members with Differently Abled program participants in Gwinnett County",
     title: "Differently Abled Program",
     description: "Working with differently abled community members",
@@ -115,7 +114,7 @@ export const galleryImages: GalleryImage[] = [
   },
   {
     id: "10",
-    src: "/lovable-uploads/7213e43e-d552-4368-b119-9c09673cc595.png",
+    src: "/images/gallery/image10.png",
     alt: "Duluth Civitan club banner and members at Gwinnett County community event",
     title: "Community Outreach",
     description: "Outreach event in the community",
@@ -125,7 +124,7 @@ export const galleryImages: GalleryImage[] = [
   },
   {
     id: "11",
-    src: "/lovable-uploads/bd001a11-930f-41c4-94d2-aa356418ff56.png",
+    src: "/images/gallery/image11.png",
     alt: "Duluth Civitan bridge event connecting community members in Gwinnett County",
     title: "Community Bridge Event",
     description: "Building connections in our community",

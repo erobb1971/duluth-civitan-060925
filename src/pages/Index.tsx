@@ -1,8 +1,7 @@
-
 import { useState } from "react";
 import HeroSection from "@/components/HeroSection";
 import AboutSection from "@/components/AboutSection";
-import MembershipSection from "@/components/MembershipSection";
+// import MembershipSection from "@/components/MembershipSection";
 import EventsSection from "@/components/EventsSection";
 import GallerySection from "@/components/GallerySection";
 import PartnersSection from "@/components/PartnersSection";
@@ -22,7 +21,7 @@ const Index = () => {
       
       <HeroSection />
       <AboutSection />
-      <MembershipSection />
+      {/* <MembershipSection /> */}
       <EventsSection />
       <TimelineSection />
       <GallerySection />
